@@ -74,6 +74,9 @@ body {
 .velikosti li {
     display: inline-block;
 }
+li {
+    margin:0 5px;
+}
 .vybrana {
     border: solid;
     border-radius: 50%;
